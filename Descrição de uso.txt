@@ -1,4 +1,1 @@
-1. Baixe e mova o arquivo Python para o repositório desejado.
-2. No ambiente Linux, digite as seguites linhas de código:
-	para trasformar o arquivo Python em executável: chmod 744 calculadora_script.sh 
-	para executar o arquivo Python: ./calculadora_script.sh
+

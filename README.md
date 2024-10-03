@@ -5,7 +5,7 @@ O código foi escrito com intuito de ser fácil entendido e intuitivo.
 2. No ambiente Linux, digite as seguites linhas de código:
   - nano calculadora_script.py
 3. Dentro do editor nano digite:
-  - Python3 calculadora.py
+  - Python3 calculadora.py 
 Salve o arquivo no diretório desejado.
 4. Para permissão de executar o arquivo Python:
   - chmod 744 calculadora_script.sh 

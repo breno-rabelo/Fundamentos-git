@@ -1,4 +1,5 @@
 Calculadora Simples em Python
+
 Esta é uma simples calculadora em Python que realiza operações básicas entre dois números inteiros.
 
 Funcionalidades

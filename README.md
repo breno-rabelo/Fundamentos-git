@@ -1,6 +1,3 @@
-A calculadora Python é um projeto onde é possível realizar as quatro operações básicas por meio de um exeutável Python.
-O código foi escrito com intuito de ser fácil entendido e intuitivo.
-
 Calculadora Simples em Python
 Esta é uma simples calculadora em Python que realiza operações básicas entre dois números inteiros.
 

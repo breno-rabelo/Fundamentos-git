@@ -11,9 +11,6 @@ Multiplicação: Multiplica dois números inteiros.
 
 Subtração: Subtrai o segundo número inteiro do primeiro.
 
-Instruções de Uso
-Execute o script em um ambiente Python.
-
 Será exibido um menu com quatro opções de operação:
 
 Para soma, digite: 1
@@ -31,6 +28,8 @@ Em seguida, insira o primeiro valor inteiro e depois o segundo valor inteiro.
 O resultado da operação será exibido na tela.
 
 ____________________________________________________________________________________________________
+
+Instruções de Uso
 
 1. Baixe e mova o arquivo Python para o repositório onde será executado o script.
   
